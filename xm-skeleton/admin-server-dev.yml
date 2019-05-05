@@ -4,7 +4,7 @@ server:
     context-path: /
 
 upload:
-  rootPath: D:\uploads
+  rootPath: D:\uploadss
   domain: http://img.skeleton.com/
 
 # 配置文件加密key
